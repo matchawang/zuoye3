@@ -1,0 +1,3 @@
+# Project exclude paths
+/out/
+/out/production/zuoye3/web/WEB-INF/CLASSES/
